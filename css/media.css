@@ -1,0 +1,185 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+
+     /* bx slider start  */
+     .bx-wrapper {
+        max-width: 100% !important;
+    }
+    .item {
+        
+    }
+    /* bx slider end  */
+    /* hero area start  */
+    .hero_title {
+        padding-top: 10px !important;
+        padding-bottom: 30px !important;
+    }
+    .hero_title h1 {
+        font-size: 25px !important;
+    }
+    /* hero area end  */
+    /* blog section start  */
+    .blog_title {
+        text-align: center;
+        margin-bottom: 15px !important;
+    }
+    
+    .client_slide {
+        text-align: center;
+    }
+    .clsay_md{
+        margin-top: 25px;
+        margin-bottom: 15px !important;
+    }
+    .blog {
+        padding-top: 40px !important;
+        padding-bottom: 40px !important;
+    }
+    .blog_title h1 {
+        font-size: 22px !important;
+    }
+    .aboutus_p {
+        text-align: start !important;
+    }
+    .aboutus_p2 {
+         display: inline !important;
+        /* margin-top: 30px; */
+        /* margin-bottom: 20px; */
+    }
+    .second_slide {
+        margin-top: 18px !important;
+    }
+    .cotaion_pic img {
+        width: 30px;
+        margin: 0 0 15px 0;
+    }
+    /* blog section end  */
+    /* latest start  */
+    .latest_h1 h1 {
+        margin-bottom: 15px !important;
+        font-size: 20px !important;
+    }
+    /* latest end  */
+    .allright{
+        text-align: center !important;
+    }
+    .allright h5{
+        font-size: 17px;
+    }
+    .tmpby{
+        text-align: center !important;
+    }
+    .tmpby h5{
+        font-size: 17px;
+    }
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /* bx slider start  */
+    .bx-wrapper {
+        max-width: 100% !important;
+    }
+    .item {
+        width: 20% !important;
+    }
+    .sliderone img {
+        width: 768px !important;
+    }
+    /* bx slider end  */
+    /* hero area start  */
+    .hero_title {
+        padding-top: 10px !important;
+        padding-bottom: 30px !important;
+    }
+    .hero_title h1 {
+        font-size: 40px !important;
+    }
+    /* hero area end  */
+    /* blog section start  */
+    .blog_title {
+        text-align: center;
+    }
+    .client_slide {
+        text-align: center;
+    }
+    .clsay_md{
+        margin-top: 35px;
+        margin-bottom: 20px !important;
+    }
+    .blog {
+        padding-top: 40px !important;
+        padding-bottom: 40px !important;
+    }
+    .second_slide {
+        margin-top: 35px !important;
+    }
+    /* blog section end  */
+    /* latest start  */
+    .latest_h1 h1 {
+        margin-bottom: 20px !important;
+        font-size: 25px !important;
+    }
+    /* latest end  */
+
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+    .hero_title {
+        padding-top: 130px !important;
+        padding-bottom: 45px !important;
+    }
+    .hero_title h1 {
+        font-size: 58px !important;
+    }
+    /* slide custom code start  */
+    .bx-viewport {
+        height: 480.797px !important;
+    }
+    /* slide custom code end  */
+    .aboutus_p {
+        margin-bottom: 70px;
+    }
+    .lastsp {
+        margin-bottom: 80px;
+    }
+    .latest_h1 h1 {
+        margin-bottom: 25px !important;
+        font-size: 20px !important;
+    }
+    .posts h3 {
+        font-size: 15px !important;
+    }
+    .conform input {
+        margin-top: 30px !important;
+    }
+    .conform textarea {
+        margin-top: 30px !important;
+    }
+    
+
+ }
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+    .aboutus_p {
+        margin-bottom: 45px;
+    }
+    .lastsp {
+        margin-bottom: 54px;
+    }
+    .latest_h1 h1 {
+        margin-bottom: 35px;
+        font-size: 25px !important;
+    }
+
+
+ }
